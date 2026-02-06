@@ -62,7 +62,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Jupyter 101](https://tryhackme.com/room/jupyter101)
 - [ ] [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 - [ ] [TryHackMe | Introduction to Flask](https://tryhackme.com/room/flask)
-- [ ] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
+- [X] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 - [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [ ] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
 - [ ] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
