@@ -189,7 +189,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Container Security
 
-- [ ] [TryHackme | Containers - DoorDasher's Demise](https://tryhackme.com/room/container-security-aoc2025-z0x3v6n9m2)
+- [X] [TryHackme | Containers - DoorDasher's Demise](https://tryhackme.com/room/container-security-aoc2025-z0x3v6n9m2)
 - [ ] [TryHackMe | K8s Runtime Security](https://tryhackme.com/r/room/k8sruntimesecurity)
 - [ ] [TryHackMe | K8s Best Security Practices](https://tryhackme.com/r/room/k8sbestsecuritypractices)
 - [ ] [TryHackMe | Cluster Hardening](https://tryhackme.com/r/room/clusterhardening)
@@ -200,9 +200,9 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Crypto Failures](https://tryhackme.com/room/cryptofailures)
 - [ ] [TryHackMe | Breaking RSA](https://tryhackme.com/room/breakrsa)
 - [ ] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
-- [ ] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- [X] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 - [ ] [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
-- [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
+- [X] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 - [ ] [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 - [ ] [TryHackMe | Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro)
 
